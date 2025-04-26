@@ -1,0 +1,577 @@
+,title,price,furnishing,bathrooms,tenant preferred,carpet area,House,BHK,place,floor_number,total_floors
+0,"3 BHK Flat for Rent in Jade Heights Tower I, Kakkanad, Kochi",30000.0,Furnished,3.0,Family,,Flat,3,Kakkanad,4.0,32.0
+1,"3 BHK Flat for Rent in Veegaland Kings Fort, Eroor, Kochi",39500.0,Furnished,3.0,Family,1200.0,Flat,3,Eroor,4.0,18.0
+2,"3 BHK Flat for Rent in GRTL Gardenia, Edappally, Kochi",20000.0,Unfurnished,3.0,Bachelors/Family,1570.0,Flat,3,Edappally,1.0,1.0
+3,"3 BHK Flat for Rent in Bhagheeratha VC Valley, Kakkanad, Kochi",25000.0,Semi-Furnished,3.0,Bachelors/Family,1670.0,Flat,3,Kakkanad,6.0,11.0
+4,"3 BHK Flat for Rent in Skyline Florento, Kaloor, Kochi",20000.0,Semi-Furnished,2.0,Bachelors/Family,,Flat,3,Kaloor,5.0,9.0
+5,"3 BHK Flat for Rent in Choice Paradise, Thrippunithura, Kochi",50000.0,Furnished,3.0,Bachelors,,Flat,3,Thrippunithura,13.0,40.0
+6,"3 BHK Flat for Rent in TATA Tritvam , Marine Drive, Kochi",75000.0,Furnished,4.0,Family,1675.0,Flat,3,Marine Drive,12.0,25.0
+7,4 BHK Villa for Rent in Vazhakkala Kochi,42000.0,Furnished,5.0,Bachelors/Family,1650.0,Villa,4,Vazhakkala,,
+8,"3 BHK Flat for Rent in Elamakkara, Kochi",18000.0,Unfurnished,3.0,Bachelors,,Flat,3,,2.0,4.0
+9,"2 BHK Flat for Rent in Kalyan Credenz, Edappally, Kochi",32000.0,Unfurnished,2.0,Family,1220.0,Flat,2,Edappally,1.0,4.0
+10,2 BHK Villa for Rent in Angamaly Kochi,45000.0,Furnished,3.0,Bachelors/Family,1000.0,Villa,2,Angamaly,,
+11,3 BHK House for Rent in Puthussery Bhavan Kochi,20000.0,Unfurnished,2.0,Bachelors/Family,,House,3,Bhavan,0.0,2.0
+12,2 BHK House for Rent in Vyttila Kochi,50000.0,Furnished,2.0,Bachelors/Family,,House,2,Vyttila,1.0,3.0
+13,"3 BHK Flat for Rent in Cheloor Pushpak, Ravipuram, Kochi",40000.0,Furnished,3.0,Bachelors,1836.0,Flat,3,Ravipuram,11.0,16.0
+14,3 BHK Villa for Rent in Palarivattom Kochi,50000.0,Semi-Furnished,3.0,Bachelors/Family,,Villa,3,Palarivattom,,
+15,3 BHK House for Rent in Elamakkara Kochi,25000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Elamakkara,,
+16,"3 BHK Flat for Rent in SFS Sunnyvale, Chittethukara, Kochi",36000.0,Semi-Furnished,3.0,Family,1600.0,Flat,3,Chittethukara,1.0,1.0
+17,2 BHK Villa for Rent in Kakkanad Kochi,25000.0,Furnished,2.0,Family,1300.0,Villa,2,Kakkanad,,
+18,2 BHK Flat for Rent in Kochi,40000.0,Unfurnished,2.0,Bachelors,950.0,Flat,2,in,6.0,14.0
+19,3 BHK House for Rent in Thrippunithura Kochi,23000.0,Unfurnished,3.0,Bachelors,,House,3,Thrippunithura,1.0,2.0
+20,"2 BHK Flat for Rent in Jewel Oak Field, Kaloor, Kochi",24000.0,Furnished,2.0,Bachelors/Family,,Flat,2,Kaloor,1.0,1.0
+21,2 BHK Flat for Rent in Kochi,35000.0,Unfurnished,2.0,Bachelors/Family,1150.0,Flat,2,in,1.0,5.0
+22,4 BHK House for Rent in Vyttila Kochi,100000.0,Furnished,5.0,Bachelors,3600.0,House,4,Vyttila,,
+23,"2 BHK Flat for Rent in Kacherippady, Kochi",35000.0,Semi-Furnished,3.0,Bachelors/Family,900.0,Flat,2,,3.0,4.0
+24,"3 BHK Flat for Rent in Asten Campus Court, Kakkanad, Kochi",35000.0,Semi-Furnished,3.0,Family,,Flat,3,Kakkanad,,
+25,4 BHK Villa for Rent in Kakkanad Kochi,33000.0,Furnished,4.0,Family,,Villa,4,Kakkanad,,
+26,7 BHK House for Rent in Chittethukara Kochi,20000.0,Unfurnished,3.0,Bachelors/Family,,House,7,Chittethukara,,
+27,"2 BHK Flat for Rent in Vinayaka Bhuvaneswari Apartments, Eroor, Kochi",25000.0,Unfurnished,2.0,Bachelors,785.0,Apartment,2,Eroor,10.0,11.0
+28,2 BHK House for Rent in Kothamangalam Kochi,6000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Kothamangalam,,
+29,2 BHK Flat for Rent in Kochi,25000.0,Unfurnished,2.0,Bachelors/Family,,Flat,2,in,2.0,2.0
+30,3 BHK Apartment for Rent in Kakkanad Kochi,35000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,22.0,25.0
+31,3 BHK Apartment for Rent in Eroor Kochi,17000.0,Semi-Furnished,3.0,Bachelors,1200.0,Apartment,3,Eroor,7.0,9.0
+32,"3 BHK Apartment for Rent in Infra Vantage, Thrikkakara Kochi",30000.0,Furnished,3.0,Bachelors/Family,1500.0,Apartment,3,Thrikkakara,4.0,12.0
+33,3 BHK Builder Floor for Rent in Vadakekotta Kochi,16000.0,,,Bachelors/Family,,Builder Floor,3,Vadakekotta,,
+34,"2 BHK Apartment for Rent in SFS Silicon Court and Gate , Kakkanad Kochi",27500.0,Furnished,2.0,Bachelors/Family,1200.0,Apartment,2,Kakkanad,7.0,14.0
+35,3 BHK House for Rent in Eroor Kochi,30000.0,Unfurnished,3.0,Bachelors/Family,3500.0,House,3,Eroor,1.0,1.0
+36,6 BHK House for Rent in Palarivattom Kochi,80000.0,Semi-Furnished,5.0,Bachelors/Family,3600.0,House,6,Palarivattom,0.0,2.0
+37,2 BHK House for Rent in Aluva Kochi,10000.0,Semi-Furnished,2.0,Bachelors/Family,2000.0,House,2,Aluva,,
+38,"3 BHK Apartment for Rent in Skyline Synergy, Cheranalloor Kochi",30000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Cheranalloor,3.0,18.0
+39,"1 BHK Apartment for Rent in Prestige Hillside Gateway, Kakkanad Kochi",32000.0,Furnished,1.0,Bachelors,650.0,Apartment,1,Kakkanad,1.0,26.0
+40,3 BHK House for Rent in Edappally Kochi,25000.0,Semi-Furnished,3.0,Bachelors,1200.0,House,3,Edappally,1.0,2.0
+41,3 BHK House for Rent in Eroor Kochi,30000.0,Furnished,3.0,Bachelors/Family,,House,3,Eroor,0.0,2.0
+42,2 BHK House for Rent in Fort Kochi Kochi,5000.0,Unfurnished,1.0,Bachelors/Family,450.0,House,2,Fort Kochi,0.0,1.0
+43,"2 BHK Apartment for Rent in JM apartments, kaloor Kochi",15000.0,Unfurnished,2.0,Bachelors/Family,,Apartment,2,kaloor,1.0,3.0
+44,2 BHK Service Apartment for Rent in Palarivattom Kochi,20000.0,,2.0,Bachelors/Family,,Service Apartment,2,Palarivattom,1.0,4.0
+45,3 BHK House for Rent in Aluva Kochi,6500.0,Semi-Furnished,2.0,Bachelors/Family,,House,3,Aluva,0.0,1.0
+46,2 BHK Builder Floor for Rent in Vennala Kochi,20000.0,Unfurnished,2.0,Bachelors,1100.0,Builder Floor,2,Vennala,1.0,1.0
+47,2 BHK Apartment for Rent in nanma one cochin Kochi,30000.0,Unfurnished,2.0,Bachelors,850.0,Apartment,2,cochin,12.0,26.0
+48,4 BHK House for Rent in Kerala Kochi,38000.0,Furnished,4.0,Family,,House,4,Kerala,1.0,2.0
+49,3 BHK Builder Floor for Rent in Edappally Kochi,26000.0,Unfurnished,3.0,Bachelors,1500.0,Builder Floor,3,Edappally,0.0,2.0
+50,2 BHK House for Rent in Kangarappady Kochi,20000.0,Semi-Furnished,3.0,Family,,House,2,Kangarappady,,
+51,4 BHK House for Rent in Edappally Kochi,55000.0,Furnished,4.0,Bachelors,2300.0,House,4,Edappally,,
+52,"1 BHK Apartment for Rent in Earthspace Transit, earthspace apartment Kochi",15000.0,Furnished,1.0,Bachelors/Family,750.0,Apartment,1,apartment,4.0,8.0
+53,2 BHK House for Rent in Cheranalloor Kochi,26000.0,Furnished,2.0,Bachelors/Family,600.0,House,2,Cheranalloor,,
+54,2 BHK Builder Floor for Rent in Aerambakkal Kochi,12000.0,Semi-Furnished,1.0,Bachelors/Family,900.0,Builder Floor,2,Aerambakkal,2.0,2.0
+55,2 BHK House for Rent in Vyttila Kochi,15000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Vyttila,1.0,2.0
+56,3 BHK House for Rent in near KSRTC bus stand Kochi,23000.0,Semi-Furnished,3.0,Bachelors/Family,1500.0,House,3,stand,,
+57,1 BHK House for Rent in Kakkanad Kochi,15000.0,Unfurnished,2.0,Bachelors/Family,650.0,House,1,Kakkanad,1.0,1.0
+58,1 BHK Apartment for Rent in Pallimukku Kochi,15000.0,Furnished,1.0,Bachelors/Family,750.0,Apartment,1,Pallimukku,2.0,2.0
+59,3 BHK Villa for Rent in Thrippunithura Kochi,16000.0,Semi-Furnished,4.0,Bachelors/Family,,Villa,3,Thrippunithura,,
+60,3 BHK Apartment for Rent in Edappally Kochi,30000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Edappally,11.0,23.0
+61,3 BHK House for Rent in Kakkanad Ambadimoola Kochi,20000.0,Semi-Furnished,3.0,Bachelors,1515.0,House,3,Ambadimoola,,
+62,3 BHK House for Rent in Thrippunithura Kochi,17000.0,Unfurnished,3.0,Bachelors/Family,1150.0,House,3,Thrippunithura,2.0,2.0
+63,3 BHK Villa for Rent in Nedumbassery Kochi,25000.0,Furnished,4.0,Bachelors/Family,,Villa,3,Nedumbassery,,
+64,3 BHK House for Rent in Vyttila Kochi,22000.0,Semi-Furnished,4.0,Bachelors/Family,,House,3,Vyttila,,
+65,"3 BHK Apartment for Rent in Edappally, Kochi Kochi",20000.0,,,Bachelors/Family,,Apartment,3,Kochi,,
+66,"3 BHK Apartment for Rent in Relcon Retreat, Edappally Kochi",21500.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Edappally,1.0,5.0
+67,4 BHK House for Rent in Kakkanad Kochi,40000.0,Furnished,4.0,Family,2800.0,House,4,Kakkanad,,
+68,2 BHK Apartment for Rent in Elamakkara Kochi,20000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Elamakkara,8.0,10.0
+69,1 BHK Apartment for Rent in Edappally Kochi,18000.0,Furnished,1.0,Bachelors,750.0,Apartment,1,Edappally,1.0,3.0
+70,"3 BHK Apartment for Rent in Skyline Imperial Gardens , Palarivattom Kochi",38000.0,Semi-Furnished,3.0,Bachelors/Family,1000.0,Apartment,3,Palarivattom,12.0,27.0
+71,"2 BHK Apartment for Rent in Kalpaka Vrindavan Ponekara, Edappally Kochi",28000.0,Semi-Furnished,2.0,Bachelors,700.0,Apartment,2,Edappally,2.0,6.0
+72,2 BHK House for Rent in Panayappilly Kochi,15000.0,Semi-Furnished,2.0,Family,1100.0,House,2,Panayappilly,,
+73,3 BHK Villa for Rent in Angamali Kochi,22000.0,Semi-Furnished,3.0,Bachelors/Family,,Villa,3,Angamali,,
+74,2 BHK House for Rent in Pachalam Kochi,20000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Pachalam,0.0,3.0
+75,2 BHK House for Rent in Kalamassery Kochi,14000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Kalamassery,1.0,3.0
+76,1 BHK Apartment for Rent in Angamaly Kochi,9500.0,Furnished,1.0,Bachelors/Family,200.0,Apartment,1,Angamaly,1.0,3.0
+77,"3 BHK Apartment for Rent in DD Platinum Planet, Kathrikadavu Kochi",27000.0,Semi-Furnished,4.0,Bachelors,1455.0,Apartment,3,Kathrikadavu,9.0,16.0
+78,3 BHK Villa for Rent in Thrikkakara Kochi,30000.0,Semi-Furnished,3.0,Bachelors/Family,,Villa,3,Thrikkakara,,
+79,2 BHK Apartment for Rent in Thrikkakara Kochi,35000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Thrikkakara,2.0,17.0
+80,6 BHK House for Rent in Kaloor Kochi,70000.0,Semi-Furnished,6.0,Family,,House,6,Kaloor,0.0,2.0
+81,2 BHK House for Rent in Vazhakkala Kochi,25000.0,Unfurnished,2.0,Bachelors,1200.0,House,2,Vazhakkala,1.0,1.0
+82,2 BHK Apartment for Rent in Kakkanad Kochi,34000.0,Furnished,2.0,Bachelors,1400.0,Apartment,2,Kakkanad,23.0,23.0
+83,"3 BHK Apartment for Rent in Puravankara Purva Eternity, Athani Kochi",32000.0,Furnished,3.0,Family,971.0,Apartment,3,Athani,12.0,20.0
+84,3 BHK Apartment for Rent in Kakkanad Kochi,26000.0,Semi-Furnished,3.0,Family,1600.0,Apartment,3,Kakkanad,3.0,22.0
+85,"1 BHK Apartment for Rent in Aban Apartments, Kakkanad Kochi",11600.0,Semi-Furnished,1.0,Bachelors/Family,,Apartment,1,Kakkanad,1.0,3.0
+86,2 BHK House for Rent in Chilavannoor Kochi,14000.0,Semi-Furnished,2.0,Bachelors/Family,1100.0,House,2,Chilavannoor,,
+87,"3 BHK Apartment for Rent in Heera Life Style, Thrippunithura Kochi",25000.0,Semi-Furnished,4.0,Bachelors/Family,,Apartment,3,Thrippunithura,19.0,21.0
+88,6 BHK House for Rent in Edappally Kochi,40000.0,Semi-Furnished,5.0,Bachelors/Family,2300.0,House,6,Edappally,,
+89,3 BHK House for Rent in Tripunithura Kochi,25000.0,Semi-Furnished,4.0,Bachelors/Family,,House,3,Tripunithura,0.0,2.0
+90,2 BHK Apartment for Rent in Karikkamuri Kochi,22000.0,Unfurnished,2.0,Bachelors/Family,1000.0,Apartment,2,Karikkamuri,1.0,1.0
+91,"2 BHK Apartment for Rent in Sowparnika Atrium, Edappally Kochi",38000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Edappally,1.0,9.0
+92,2 BHK Villa for Rent in Kochi,25000.0,Furnished,2.0,Bachelors/Family,,Villa,2,in,,
+93,"3 BHK Apartment for Rent in Hoysala D'zire Apartments, Kochi",20000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,,1.0,11.0
+94,3 BHK Apartment for Rent in Thevara Kochi,20000.0,Furnished,3.0,Bachelors,1400.0,Apartment,3,Thevara,10.0,14.0
+95,2 BHK House for Rent in Edappally Kochi,10000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Edappally,1.0,2.0
+96,1 BHK Builder Floor for Rent in Marine Drive Kochi,10000.0,Unfurnished,1.0,Bachelors/Family,,Builder Floor,1,Marine Drive,1.0,1.0
+97,Studio Apartment for Rent in Nedumbassery Kochi,8000.0,Furnished,1.0,Bachelors/Family,,Apartment,S,Nedumbassery,1.0,3.0
+98,"3 BHK House for Rent in Aluva, Kochi, Choondy, Kairali Nagar Kochi",12500.0,,,Bachelors/Family,,House,3,Panampily Nagar,,
+99,3 BHK House for Rent in Vennala Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Vennala,0.0,2.0
+100,2 BHK House for Rent in Kacherippady Kochi,17000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Kacherippady,1.0,3.0
+101,2 BHK House for Rent in Thoppumpady Kochi,17500.0,Furnished,2.0,Family,1000.0,House,2,Thoppumpady,,
+102,2 BHK House for Rent in Thoppumpady Kochi,15000.0,Furnished,2.0,Bachelors/Family,,House,2,Thoppumpady,1.0,2.0
+103,"3 BHK Apartment for Rent in Padamugal, Kochi Kochi",20000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,3,Kochi,3.0,6.0
+104,3 BHK Apartment for Rent in Palarivattom Kochi,28000.0,Unfurnished,3.0,Bachelors/Family,1450.0,Apartment,3,Palarivattom,4.0,11.0
+105,"1 BHK Builder Floor for Rent in Raj Imperial Park, Aluva, Kochi Kochi",13000.0,Semi-Furnished,1.0,Bachelors/Family,,Builder Floor,1,Kochi,1.0,2.0
+106,4 BHK Villa for Rent in Kalamassery Kochi,40000.0,Unfurnished,5.0,Bachelors/Family,3200.0,Villa,4,Kalamassery,,
+107,"3 BHK Apartment for Rent in Galaxy Domain, Kakkanad Kochi",30000.0,,,Bachelors/Family,,Apartment,3,Kakkanad,,
+108,3 BHK Villa for Rent in Aluva Kochi,18000.0,Semi-Furnished,3.0,Family,1800.0,Villa,3,Aluva,,
+109,2 BHK House for Rent in Elamakkara Kochi,6500.0,Furnished,2.0,Bachelors/Family,850.0,House,2,Elamakkara,1.0,1.0
+110,"4 BHK Apartment for Rent in My Home Periyar Homes, Aluva Kochi",22000.0,Semi-Furnished,5.0,Bachelors,,Apartment,4,Aluva,8.0,10.0
+111,2 BHK Apartment for Rent in Asha Hermitage Tripunithura Kochi,17500.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Tripunithura,6.0,6.0
+112,2 BHK House for Rent in pukkattupady Kochi,10000.0,Semi-Furnished,2.0,Bachelors/Family,1000.0,House,2,pukkattupady,6.0,16.0
+113,3 BHK House for Rent in Varapuzha Kochi,18000.0,Unfurnished,3.0,Bachelors/Family,,House,3,Varapuzha,1.0,2.0
+114,"3 BHK Apartment for Rent in Independent House With 2 plus Parking, Edappally Kochi",12000.0,Unfurnished,3.0,Family,1200.0,Apartment,3,Edappally,1.0,3.0
+115,1 BHK Apartment for Rent in Kakkanad Kochi,35000.0,Furnished,1.0,Bachelors/Family,750.0,Apartment,1,Kakkanad,3.0,3.0
+116,1 BHK House for Rent in Gandhinagar Kochi,8000.0,Unfurnished,1.0,Bachelors/Family,300.0,House,1,Gandhinagar,,
+117,"4 BHK Apartment for Rent in Platinum Heights, Kakkanad Kochi",28500.0,Unfurnished,4.0,Bachelors,2200.0,Apartment,4,Kakkanad,9.0,10.0
+118,"4 BHK Villa for Rent in Nucleus Riva, Edappally Kochi",35000.0,Semi-Furnished,4.0,Bachelors,1800.0,Villa,4,Edappally,,
+119,"2 BHK Apartment for Rent in Dream Flower Ibiza, Kaloor Kochi",23000.0,Semi-Furnished,2.0,Bachelors/Family,1200.0,Apartment,2,Kaloor,1.0,4.0
+120,3 BHK Apartment for Rent in Panampily Nagar Kochi,40000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Panampily Nagar,4.0,12.0
+121,2 BHK Apartment for Rent in Dream flower estella 2 Kochi,17000.0,Unfurnished,2.0,Bachelors/Family,950.0,Apartment,2,2,1.0,6.0
+122,2 BHK House for Rent in Lakeshore homestay Kochi,25000.0,Furnished,2.0,Bachelors/Family,,House,2,homestay,0.0,1.0
+123,3 BHK Apartment for Rent in Kadavanthra Kochi,20000.0,Unfurnished,4.0,Bachelors/Family,1500.0,Apartment,3,Kadavanthra,5.0,14.0
+124,4 BHK Villa for Rent in Kundanoor Kochi,50000.0,Furnished,4.0,Bachelors/Family,,Villa,4,Kundanoor,,
+125,4 BHK House for Rent in tripunithura Kochi,35000.0,Semi-Furnished,4.0,Bachelors/Family,,House,4,tripunithura,,
+126,3 BHK Apartment for Rent in Tranquil Residency Kochi,25000.0,Unfurnished,4.0,Bachelors,1800.0,Apartment,3,Residency,9.0,11.0
+127,"5 BHK Apartment for Rent in Marina One, Marine Drive Kochi",90000.0,Unfurnished,4.0,Bachelors,,Apartment,5,Marine Drive,11.0,27.0
+128,"3 BHK Apartment for Rent in Shwas Aquacity, Aluva Kochi",35000.0,Furnished,4.0,Bachelors/Family,1700.0,Apartment,3,Aluva,,
+129,3 BHK Builder Floor for Rent in Vazhakkala Kochi,12000.0,Semi-Furnished,3.0,Bachelors/Family,,Builder Floor,3,Vazhakkala,3.0,3.0
+130,"3 BHK Apartment for Rent in Puravankara Purva Grandbay, Marine Drive Kochi",38000.0,Unfurnished,3.0,Bachelors,,Apartment,3,Marine Drive,4.0,13.0
+131,2 BHK Builder Floor for Rent in Kalamassery Kochi,14500.0,Semi-Furnished,2.0,Bachelors/Family,,Builder Floor,2,Kalamassery,0.0,4.0
+132,"3 BHK Apartment for Rent in Maison Dor, Panampily Nagar Kochi",52000.0,Furnished,4.0,Bachelors/Family,2100.0,Apartment,3,Panampily Nagar,13.0,17.0
+133,"2 BHK House for Rent in Koovapadam, Kochi Kochi",10000.0,Furnished,3.0,Bachelors/Family,,House,2,Kochi,3.0,3.0
+134,2 BHK Builder Floor for Rent in Kaloor Kochi,12000.0,Unfurnished,2.0,Bachelors/Family,,Builder Floor,2,Kaloor,1.0,1.0
+135,3 BHK Service Apartment for Rent in Kakkanad Kochi,19500.0,,3.0,Bachelors/Family,,Service Apartment,3,Kakkanad,17.0,18.0
+136,1 BHK House for Rent in Elamakkara Kochi,6500.0,Semi-Furnished,1.0,Bachelors/Family,68.0,House,1,Elamakkara,,
+137,3 BHK Apartment for Rent in Pachalam Kochi,30000.0,Furnished,2.0,Bachelors/Family,1200.0,Apartment,3,Pachalam,0.0,2.0
+138,2 BHK Builder Floor for Rent in Kaloor Kochi,18000.0,Semi-Furnished,2.0,Bachelors/Family,,Builder Floor,2,Kaloor,3.0,6.0
+139,"3 BHK Apartment for Rent in Puravankara Purva Grandbay, Marine Drive Kochi",50000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Marine Drive,5.0,5.0
+140,4 BHK Villa for Rent in vennala palarivatom Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,1800.0,Villa,4,palarivatom,,
+141,"3 BHK Villa for Rent in Sophia Homes, Perumbavoor Kochi",15000.0,Semi-Furnished,3.0,Bachelors/Family,1375.0,Villa,3,Perumbavoor,,
+142,3 BHK Apartment for Rent in Kakkanad Kochi,30000.0,Semi-Furnished,4.0,Bachelors/Family,,Apartment,3,Kakkanad,9.0,20.0
+143,Studio Apartment for Rent in South Kalamassery Kochi,4500.0,Semi-Furnished,,Bachelors/Family,,Apartment,S,Kalamassery,1.0,2.0
+144,3 BHK Apartment for Rent in Kakkanad Kochi,26000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,0.0,18.0
+145,2 BHK House for Rent in Angamali Kochi,20000.0,Furnished,3.0,Bachelors/Family,,House,2,Angamali,0.0,3.0
+146,1 BHK Apartment for Rent in Kodungallur Kochi,12000.0,Furnished,1.0,Bachelors/Family,1200.0,Apartment,1,Kodungallur,1.0,1.0
+147,3 BHK Villa for Rent in Desom Kochi,14000.0,Furnished,3.0,Bachelors/Family,,Villa,3,Desom,,
+148,4 BHK Villa for Rent in Elamakkara Kochi,12500000.0,Furnished,3.0,Bachelors/Family,,Villa,4,Elamakkara,,
+149,2 BHK House for Rent in Fort Cochin Kochi,1700000.0,Semi-Furnished,2.0,Bachelors,1200.0,House,2,Cochin,1.0,1.0
+150,3 BHK Apartment for Rent in Edappally Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Edappally,9.0,11.0
+151,2 BHK Apartment for Rent in Ayyappankavu Kochi,25000.0,,,Bachelors/Family,,Apartment,2,Ayyappankavu,,
+152,2 BHK House for Rent in Thrippunithura Kochi,12000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Thrippunithura,,
+153,1 BHK Apartment for Rent in Irumpanam Kochi,9000.0,Furnished,1.0,Bachelors/Family,,Apartment,1,Irumpanam,0.0,4.0
+154,1 BHK House for Rent in Vyttila Kochi,6000.0,Furnished,1.0,Bachelors/Family,,House,1,Vyttila,,
+155,3 BHK House for Rent in Angamali Kochi,24000.0,Semi-Furnished,3.0,Bachelors/Family,1800.0,House,3,Angamali,0.0,2.0
+156,1 BHK House for Rent in Edappally Kochi,8000.0,Semi-Furnished,1.0,Bachelors/Family,,House,1,Edappally,,
+157,2 BHK House for Rent in Kakkanad Kochi,16500.0,Unfurnished,2.0,Bachelors,1500.0,House,2,Kakkanad,,
+158,1 BHK House for Rent in PBK Myna Road Kochi,14500.0,Semi-Furnished,1.0,Bachelors/Family,1100.0,House,1,Road,,
+159,2 BHK Apartment for Rent in Souparnika Atrium Kochi,25000.0,Semi-Furnished,2.0,Bachelors,750.0,Apartment,2,Atrium,9.0,10.0
+160,3 BHK House for Rent in Vyttila Kochi,24000.0,Semi-Furnished,2.0,Bachelors/Family,,House,3,Vyttila,0.0,1.0
+161,3 BHK Apartment for Rent in Menaka-MARINE DRIVE Kochi,25000.0,Semi-Furnished,2.0,Bachelors/Family,1500.0,Apartment,3,DRIVE,3.0,12.0
+162,1 BHK House for Rent in Chottanikkara Kochi,30000.0,Furnished,1.0,Bachelors/Family,650.0,House,1,Chottanikkara,,
+163,3 BHK Apartment for Rent in Mahatma Gandhi Road Kochi,10000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Road,,
+164,2 BHK Builder Floor for Rent in Fort Cochin Kochi,6500.0,Furnished,2.0,Bachelors/Family,,Builder Floor,2,Cochin,0.0,3.0
+165,4 BHK Villa for Rent in Angamali Kochi,25000.0,Furnished,5.0,Bachelors/Family,,Villa,4,Angamali,,
+166,3 BHK House for Rent in Piravom Kochi,20000.0,Furnished,4.0,Bachelors/Family,,House,3,Piravom,,
+167,3 BHK Villa for Rent in Edappally Kochi,18000.0,Unfurnished,3.0,Bachelors/Family,,Villa,3,Edappally,,
+168,1 BHK Apartment for Rent in Jose Junction Kochi,15000.0,Semi-Furnished,1.0,Bachelors/Family,750.0,Apartment,1,Junction,2.0,2.0
+169,2 BHK Builder Floor for Rent in Thoppumpady Kochi,10000.0,Unfurnished,2.0,Family,,Builder Floor,2,Thoppumpady,,
+170,3 BHK House for Rent in Kakkanad Kochi,15000.0,Unfurnished,2.0,Bachelors/Family,1100.0,House,3,Kakkanad,,
+171,3 BHK House for Rent in Kakkanad Kochi,15000.0,Unfurnished,2.0,Bachelors/Family,,House,3,Kakkanad,,
+172,3 BHK Apartment for Rent in Panampily Nagar Kochi,40000.0,Furnished,3.0,Bachelors/Family,1600.0,Apartment,3,Panampily Nagar,4.0,11.0
+173,1 BHK Apartment for Rent in Kaloor Kochi,7500.0,Semi-Furnished,1.0,Bachelors/Family,550.0,Apartment,1,Kaloor,1.0,2.0
+174,3 BHK House for Rent in Palluruthy Kochi,16000.0,Semi-Furnished,3.0,Bachelors/Family,1080.0,House,3,Palluruthy,,
+175,3 BHK Apartment for Rent in Thrikkakara Kochi,25000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Thrikkakara,9.0,11.0
+176,3 BHK House for Rent in Palarivattom Kochi,20000.0,Semi-Furnished,3.0,Bachelors,1000.0,House,3,Palarivattom,1.0,2.0
+177,3 BHK Apartment for Rent in Kadavanthra Kochi,25000.0,Furnished,2.0,Bachelors/Family,,Apartment,3,Kadavanthra,0.0,3.0
+178,3 BHK House for Rent in Thrikkakara Kochi,23000.0,Unfurnished,3.0,Bachelors,,House,3,Thrikkakara,0.0,2.0
+179,3 BHK House for Rent in Vyttila Kochi,40000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Vyttila,1.0,1.0
+180,4 BHK Villa for Rent in Aluva Kochi,25000.0,Semi-Furnished,5.0,Bachelors/Family,2800.0,Villa,4,Aluva,,
+181,"3 BHK Apartment for Rent in ABAD Bluechip, Kakkanad Kochi",40000.0,Unfurnished,2.0,Bachelors/Family,1525.0,Apartment,3,Kakkanad,6.0,17.0
+182,"3 BHK Apartment for Rent in Express Estate, Kaloor Kochi",40000.0,Furnished,3.0,Family,,Apartment,3,Kaloor,16.0,17.0
+183,"2 BHK Apartment for Rent in AWHO silver sand island, Vyttila Kochi",21500.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Vyttila,5.0,14.0
+184,3 BHK Apartment for Rent in Palarivattom Kochi,25000.0,Unfurnished,3.0,Bachelors,,Apartment,3,Palarivattom,6.0,10.0
+185,1 BHK Apartment for Rent in Kakkanad Kochi,14500.0,Semi-Furnished,1.0,Bachelors/Family,,Apartment,1,Kakkanad,1.0,3.0
+186,2 BHK House for Rent in Kakkanad Kochi,3000.0,Semi-Furnished,2.0,Bachelors/Family,1000.0,House,2,Kakkanad,,
+187,2 BHK Builder Floor for Rent in Kalamasery Kochi,15000.0,Semi-Furnished,2.0,Bachelors/Family,,Builder Floor,2,Kalamasery,2.0,3.0
+188,Studio Apartment for Rent in Infopark Campus Kochi,7000.0,Semi-Furnished,1.0,Bachelors/Family,,Apartment,S,Campus,1.0,2.0
+189,2 BHK House for Rent in Thevara Kochi,15000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Thevara,1.0,2.0
+190,3 BHK Builder Floor for Rent in Kaloor Kochi,17000.0,Semi-Furnished,2.0,Bachelors/Family,,Builder Floor,3,Kaloor,1.0,4.0
+191,2 BHK House for Rent in Chalikkavattom Kochi,9000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Chalikkavattom,0.0,1.0
+192,2 BHK House for Rent in Thoppumpady Kochi,17000.0,Furnished,2.0,Family,1000.0,House,2,Thoppumpady,,
+193,2 BHK House for Rent in Kangarappady Kochi,7250.0,Unfurnished,1.0,Bachelors,802.0,House,2,Kangarappady,0.0,2.0
+194,"3 BHK Apartment for Rent in DD Diamond Valley, Kakkanad Kochi",39600.0,Unfurnished,3.0,Bachelors,,Apartment,3,Kakkanad,8.0,15.0
+195,2 BHK House for Rent in Kaloor Kochi,17500.0,Unfurnished,2.0,Family,,House,2,Kaloor,,
+196,"3 BHK Apartment for Rent in Mather Apartment, Kakkanad Kochi",37000.0,Furnished,4.0,Bachelors,2050.0,Apartment,3,Kakkanad,14.0,23.0
+197,"2 BHK Apartment for Rent in Tulsi Nest, Edappally Kochi",28000.0,Furnished,2.0,Bachelors,900.0,Apartment,2,Edappally,3.0,10.0
+198,3 BHK Apartment for Rent in SRM Road Kochi,14000.0,Semi-Furnished,3.0,Family,1000.0,Apartment,3,Road,0.0,3.0
+199,2 BHK House for Rent in Edappally Kochi,25000.0,Semi-Furnished,2.0,Bachelors,700.0,House,2,Edappally,1.0,2.0
+200,3 BHK House for Rent in Vyttila Kochi,28000.0,Furnished,3.0,Bachelors/Family,,House,3,Vyttila,1.0,2.0
+201,1 BHK House for Rent in Kakkanad Kochi,5000.0,Furnished,2.0,Bachelors/Family,,House,1,Kakkanad,,
+202,"3 BHK Apartment for Rent in Puravankra Moonreach, Kakkanad Kochi",32000.0,Semi-Furnished,4.0,Bachelors/Family,,Apartment,3,Kakkanad,6.0,20.0
+203,2 BHK House for Rent in Edappally Kochi,28000.0,Furnished,2.0,Bachelors/Family,,House,2,Edappally,,
+204,2 BHK Villa for Rent in Thoppumpady Kochi,14850.0,Semi-Furnished,2.0,Bachelors/Family,1000.0,Villa,2,Thoppumpady,,
+205,3 BHK House for Rent in Chalikkavattom Kochi,28000.0,Unfurnished,3.0,Bachelors,1700.0,House,3,Chalikkavattom,1.0,1.0
+206,1 BHK Apartment for Rent in Mundamveli Kochi,7500.0,Semi-Furnished,1.0,Bachelors,,Apartment,1,Mundamveli,1.0,2.0
+207,"3 BHK Villa for Rent in Green Casa, Kakkanad Kochi",30000.0,Semi-Furnished,4.0,Bachelors/Family,,Villa,3,Kakkanad,,
+208,2 BHK Apartment for Rent in Kochi,27000.0,Unfurnished,2.0,Bachelors/Family,1200.0,Apartment,2,in,7.0,12.0
+209,"3 BHK Apartment for Rent in Olive Courtyard, Kakkanad Kochi",35000.0,Furnished,3.0,Bachelors/Family,1500.0,Apartment,3,Kakkanad,10.0,14.0
+210,"3 BHK Apartment for Rent in Confident Pride, Edappally Kochi",32000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Edappally,9.0,19.0
+211,1 BHK Apartment for Rent in Edappally Kochi,12000.0,Unfurnished,1.0,Bachelors/Family,,Apartment,1,Edappally,2.0,2.0
+212,"4 BHK Villa for Rent in Olive Courtyard, Kakkanad Kochi",40000.0,Semi-Furnished,5.0,Family,,Villa,4,Kakkanad,,
+213,Studio Apartment for Rent in Gandhinagar Kochi,5500.0,Furnished,1.0,Bachelors/Family,200.0,Apartment,S,Gandhinagar,2.0,3.0
+214,"3 BHK Apartment for Rent in Puravankara Purva Eternity, Thrikkakara Kochi",35000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Thrikkakara,14.0,20.0
+215,"2 BHK Apartment for Rent in ABAD Bluechip, Kakkanad Kochi",25000.0,Furnished,2.0,Family,1100.0,Apartment,2,Kakkanad,,
+216,"3 BHK Apartment for Rent in Veegaland Bliss, Thrippunithura Kochi",25000.0,Semi-Furnished,2.0,Bachelors,900.0,Apartment,3,Thrippunithura,5.0,13.0
+217,"2 BHK Apartment for Rent in KB Apartments, Kadavanthra Kochi",18000.0,Unfurnished,2.0,Bachelors,800.0,Apartment,2,Kadavanthra,5.0,6.0
+218,2 BHK House for Rent in Maradu Kochi,25000.0,Furnished,2.0,Bachelors/Family,725.0,House,2,Maradu,0.0,1.0
+219,"3 BHK Apartment for Rent in Sowparnika Atrium, Edappally Kochi",35000.0,Furnished,2.0,Bachelors/Family,1102.0,Apartment,3,Edappally,2.0,10.0
+220,3 BHK Villa for Rent in Kakkanad Kochi,28000.0,Furnished,3.0,Bachelors,1800.0,Villa,3,Kakkanad,,
+221,2 BHK House for Rent in Palarivattom Kochi,4000.0,Unfurnished,2.0,Bachelors/Family,1300.0,House,2,Palarivattom,2.0,1.0
+222,1 BHK House for Rent in Pachalam Kochi,9000.0,Unfurnished,1.0,Bachelors/Family,,House,1,Pachalam,1.0,2.0
+223,2 BHK House for Rent in Maradu Kochi,5000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Maradu,,
+224,"4 BHK House for Rent in Skyline Ranch, Kannankulangara Kochi",22000.0,Semi-Furnished,4.0,Bachelors/Family,,House,4,Kannankulangara,0.0,1.0
+225,2 BHK Builder Floor for Rent in Kakkanad Kochi,14000.0,Semi-Furnished,2.0,Family,,Builder Floor,2,Kakkanad,1.0,3.0
+226,"4 BHK Apartment for Rent in Prestige Neptunes Courtyard, Marine Drive Kochi",70000.0,Unfurnished,6.0,Bachelors/Family,,Apartment,4,Marine Drive,15.0,16.0
+227,2 BHK Builder Floor for Rent in Kakkanad Kochi,13000.0,Unfurnished,2.0,Bachelors/Family,,Builder Floor,2,Kakkanad,1.0,3.0
+228,"3 BHK Apartment for Rent in Regal Valencia, Kakkanad Kochi",25000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,12.0,12.0
+229,3 BHK Villa for Rent in Kakkanad Kochi,25000.0,Furnished,4.0,Bachelors/Family,,Villa,3,Kakkanad,,
+230,3 BHK Builder Floor for Rent in Elamakkara Kochi,15000.0,Semi-Furnished,2.0,Bachelors/Family,,Builder Floor,3,Elamakkara,2.0,3.0
+231,1 BHK Apartment for Rent in Vyttila Kochi,17500.0,Furnished,1.0,Bachelors/Family,600.0,Apartment,1,Vyttila,2.0,2.0
+232,2 BHK Apartment for Rent in Edappally Kochi,18000.0,Furnished,2.0,Bachelors/Family,,Apartment,2,Edappally,1.0,3.0
+233,3 BHK House for Rent in Edappally Kochi,22000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Edappally,1.0,2.0
+234,2 BHK Apartment for Rent in Thrippunithura Kochi,16000.0,Furnished,2.0,Bachelors/Family,,Apartment,2,Thrippunithura,4.0,8.0
+235,4 BHK Villa for Rent in Thrikkakara Kochi,25000.0,Semi-Furnished,4.0,Bachelors/Family,,Villa,4,Thrikkakara,,
+236,"3 BHK House for Rent in Vinayaka Homes, Thrippunithura Kochi",15000.0,Semi-Furnished,2.0,Bachelors/Family,1450.0,House,3,Thrippunithura,,
+237,1 BHK Apartment for Rent in Nedumbassery Kochi,9000.0,Furnished,1.0,Bachelors/Family,,Apartment,1,Nedumbassery,3.0,4.0
+238,3 BHK Builder Floor for Rent in Vyttila Kochi,20000.0,Unfurnished,2.0,Bachelors/Family,,Builder Floor,3,Vyttila,2.0,4.0
+239,1 BHK Apartment for Rent in Kakkanad Kochi,15000.0,Unfurnished,1.0,Bachelors/Family,,Apartment,1,Kakkanad,10.0,15.0
+240,2 BHK Apartment for Rent in Edappally Kochi,16000.0,Furnished,2.0,Bachelors/Family,,Apartment,2,Edappally,2.0,3.0
+241,3 BHK Apartment for Rent in Kakkanad Kochi,25000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,18.0,19.0
+242,2 BHK Apartment for Rent in Pukattupady Kochi,8500.0,Semi-Furnished,2.0,Family,,Apartment,2,Pukattupady,14.0,16.0
+243,3 BHK Villa for Rent in Aluva Kochi,14000.0,Semi-Furnished,2.0,Bachelors/Family,,Villa,3,Aluva,,
+244,2 BHK House for Rent in Edappally Kochi,17000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Edappally,,
+245,2 BHK House for Rent in Kakkanad Kochi,30000.0,Furnished,2.0,Bachelors/Family,,House,2,Kakkanad,,
+246,2 BHK House for Rent in Kalamasery Kochi,4000.0,Semi-Furnished,1.0,Bachelors/Family,,House,2,Kalamasery,1.0,2.0
+247,2 BHK House for Rent in Thrikkakara Kochi,5000.0,Unfurnished,2.0,Bachelors/Family,1000.0,House,2,Thrikkakara,1.0,1.0
+248,2 BHK House for Rent in Kaloor Kochi,15000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Kaloor,1.0,2.0
+249,2 BHK Apartment for Rent in Kakkanad Kochi,20000.0,Semi-Furnished,2.0,Family,725.0,Apartment,2,Kakkanad,2.0,2.0
+250,"3 BHK Apartment for Rent in Motif Green Meadows, Kakkanad Kochi",,Semi-Furnished,3.0,Bachelors/Family,1691.0,Apartment,3,Kakkanad,,
+251,2 BHK Apartment for Rent in Cherai Kochi,,Unfurnished,2.0,Bachelors/Family,825.0,Apartment,2,Cherai,1.0,3.0
+252,3 BHK Apartment for Rent in Angamali Kochi,,Furnished,3.0,Bachelors/Family,,Apartment,3,Angamali,6.0,12.0
+253,"3 BHK Apartment for Rent in Motif Green Meadows, Kakkanad Kochi",,Semi-Furnished,3.0,Bachelors/Family,1691.0,Apartment,3,Kakkanad,0.0,12.0
+254,3 BHK Apartment for Rent in Kakkanad Kochi,,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,8.0,9.0
+255,2 BHK House for Rent in Pachalam Kochi,,Semi-Furnished,2.0,Family,,House,2,Pachalam,1.0,3.0
+256,"Apartment for Rent in Ninfa Casa, Kaloor Kochi",,,,Bachelors/Family,,Apartment,A,Kaloor,,
+257,Apartment for Rent in Edachira Kochi,,,,Bachelors/Family,,Apartment,A,Edachira,,
+258,"Apartment for Rent in Triarch Infopark Plots, Kakkanad Kochi",,,,Bachelors/Family,,Apartment,A,Kakkanad,,
+259,3 BHK House for Rent in Fort Kochi Kochi,35000.0,Furnished,3.0,Bachelors/Family,,House,3,Fort Kochi,,
+260,"4 BHK Apartment for Rent in Marina One, Marine Drive Kochi",85000.0,Semi-Furnished,5.0,Family,3200.0,Apartment,4,Marine Drive,4.0,25.0
+261,4 BHK Apartment for Rent in Kakkanad Kochi,25000.0,,,Bachelors/Family,,Apartment,4,Kakkanad,,
+262,"3 BHK Apartment for Rent in Choice Paradise, Thrippunithura Kochi",50000.0,Furnished,4.0,Bachelors/Family,,Apartment,3,Thrippunithura,13.0,40.0
+263,2 BHK Service Apartment for Rent in Vyttila Kochi,30000.0,,2.0,Bachelors/Family,,Service Apartment,2,Vyttila,1.0,4.0
+264,3 BHK Apartment for Rent in Elamakkara Kochi,30000.0,Semi-Furnished,3.0,Bachelors/Family,2500.0,Apartment,3,Elamakkara,2.0,2.0
+265,"3 BHK Apartment for Rent in Noel Greenature, Kakkanad Kochi",40000.0,Semi-Furnished,3.0,Family,2100.0,Apartment,3,Kakkanad,7.0,15.0
+266,3 BHK Villa for Rent in Thevakkal Kochi,27000.0,Unfurnished,3.0,Bachelors,1600.0,Villa,3,Thevakkal,,
+267,"2 BHK Apartment for Rent in Sowparnika Atrium, Edappally Kochi",40000.0,Furnished,2.0,Bachelors/Family,900.0,Apartment,2,Edappally,,
+268,"3 BHK Apartment for Rent in Mir Green Metropolis, Kakkanad Kochi",32000.0,Furnished,3.0,Family,1500.0,Apartment,3,Kakkanad,3.0,10.0
+271,4 BHK House for Rent in Kakkanad Kochi,40000.0,Furnished,4.0,Bachelors/Family,,House,4,Kakkanad,,
+272,1 BHK Apartment for Rent in Angamali Kochi,10000.0,Furnished,1.0,Bachelors,100.0,Apartment,1,Angamali,1.0,3.0
+273,"2 BHK Apartment for Rent in Infra Aspire, Kakkanad Kochi",20300.0,Semi-Furnished,2.0,Family,,Apartment,2,Kakkanad,2.0,12.0
+274,"1 BHK Apartment for Rent in Aban Apartments, Kakkanad Kochi",10600.0,Semi-Furnished,1.0,Bachelors/Family,,Apartment,1,Kakkanad,1.0,3.0
+275,1 BHK Apartment for Rent in Infopark Kochi,15000.0,Semi-Furnished,1.0,Bachelors/Family,700.0,Apartment,1,Infopark,1.0,4.0
+276,2 BHK Villa for Rent in Kakkanad Kochi,2750.0,Semi-Furnished,2.0,Bachelors/Family,1010.0,Villa,2,Kakkanad,,
+277,3 BHK Villa for Rent in Fort Kochi Kochi,35000.0,Furnished,3.0,Family,,Villa,3,Fort Kochi,,
+278,"3 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",70000.0,Furnished,4.0,Family,2207.0,Apartment,3,Marine Drive,8.0,25.0
+280,"4 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",75000.0,Furnished,4.0,Bachelors/Family,,Apartment,4,Marine Drive,23.0,26.0
+281,3 BHK Apartment for Rent in sfs haveli Kochi,50000.0,Semi-Furnished,4.0,Bachelors,2223.0,Apartment,3,haveli,4.0,4.0
+282,3 BHK Apartment for Rent in Branded Society Kochi,25000.0,Unfurnished,3.0,Bachelors,1200.0,Apartment,3,Branded Society,8.0,14.0
+283,3 BHK Apartment for Rent in Palachuvadu Kochi,25000.0,Semi-Furnished,2.0,Bachelors/Family,1210.0,Apartment,3,Palachuvadu,-1.0,14.0
+284,"3 BHK Apartment for Rent in DD Highway Gate, Netoor Kochi",40000.0,Furnished,3.0,Bachelors/Family,1200.0,Apartment,3,Netoor,2.0,14.0
+285,"3 BHK Apartment for Rent in Infra Aspire, Kakkanad Kochi",22300.0,Semi-Furnished,3.0,Family,1450.0,Apartment,3,Kakkanad,6.0,15.0
+286,1 BHK Apartment for Rent in Kakkanad Kochi,15000.0,Semi-Furnished,1.0,Bachelors/Family,750.0,Apartment,1,Kakkanad,1.0,4.0
+287,1 BHK Builder Floor for Rent in Edappally Kochi,9000.0,Unfurnished,1.0,Bachelors/Family,1200.0,Builder Floor,1,Edappally,1.0,2.0
+288,4 BHK House for Rent in Kundanoor Kochi,45000.0,Semi-Furnished,5.0,Family,,House,4,Kundanoor,,
+289,"3 BHK Apartment for Rent in Mather Serenade , Vazhakkala Kochi",60000.0,Furnished,4.0,Bachelors/Family,2500.0,Apartment,3,Vazhakkala,1.0,10.0
+290,3 BHK Apartment for Rent in Cheranalloor Kochi,55000.0,Semi-Furnished,3.0,Family,,Apartment,3,Cheranalloor,3.0,20.0
+291,1 BHK Apartment for Rent in Palachuvadu Kochi,9500.0,Unfurnished,1.0,Bachelors,380.0,Apartment,1,Palachuvadu,1.0,3.0
+292,"3 BHK Apartment for Rent in KG Oxford Symphony, Palarivattom Kochi",26500.0,Furnished,3.0,Family,,Apartment,3,Palarivattom,5.0,8.0
+293,"1 BHK Apartment for Rent in RM Zybervale Apartments, Kakkanad Kochi",14000.0,Semi-Furnished,1.0,Bachelors/Family,550.0,Apartment,1,Kakkanad,2.0,8.0
+294,"3 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",68000.0,Furnished,3.0,Family,1700.0,Apartment,3,Marine Drive,8.0,25.0
+295,3 BHK House for Rent in Vyttila Kochi,40000.0,Furnished,4.0,Bachelors/Family,,House,3,Vyttila,,
+296,"3 BHK Apartment for Rent in SFS Grandville , Edappally Kochi",38000.0,Semi-Furnished,3.0,Bachelors,1800.0,Apartment,3,Edappally,7.0,18.0
+297,3 BHK Villa for Rent in Kakkanad Kochi,18000.0,Furnished,3.0,Bachelors,1080.0,Villa,3,Kakkanad,,
+298,"4 BHK Apartment for Rent in Marina One, Marine Drive Kochi",100000.0,Furnished,5.0,Family,2600.0,Apartment,4,Marine Drive,7.0,28.0
+299,"3 BHK Apartment for Rent in Skyline Orionpark, Edappally Kochi",35000.0,Furnished,3.0,Bachelors/Family,1400.0,Apartment,3,Edappally,11.0,13.0
+300,"4 BHK Apartment for Rent in Prestige Hillside Gateway, Chittethukara Kochi",49000.0,Semi-Furnished,4.0,Family,2016.0,Apartment,4,Chittethukara,5.0,20.0
+301,3 BHK Villa for Rent in Branded villa Kochi,27000.0,Semi-Furnished,3.0,Bachelors,1250.0,Villa,3,villa,,
+302,"3 BHK Apartment for Rent in Skyline Spectra, Kakkanad Kochi",40000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,9.0,18.0
+303,"3 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",85000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Marine Drive,2.0,2.0
+304,2 BHK Apartment for Rent in Kadavanthra Kochi,20000.0,Furnished,2.0,Bachelors,900.0,Apartment,2,Kadavanthra,4.0,8.0
+305,"3 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",100000.0,Furnished,4.0,Family,1900.0,Apartment,3,Marine Drive,3.0,3.0
+306,3 BHK Apartment for Rent in Branded Society Kochi,45000.0,Furnished,2.0,Bachelors,950.0,Apartment,3,Branded Society,7.0,22.0
+307,"3 BHK Apartment for Rent in Choice Paradise, Thrippunithura Kochi",50000.0,Furnished,3.0,Bachelors/Family,1900.0,Apartment,3,Thrippunithura,29.0,40.0
+308,3 BHK Apartment for Rent in branded Society Kochi,40000.0,Furnished,3.0,Bachelors,1450.0,Apartment,3,Branded Society,1.0,20.0
+309,3 BHK Apartment for Rent in Chittethukara Kochi,30000.0,Furnished,4.0,Family,1800.0,Apartment,3,Chittethukara,21.0,24.0
+310,"4 BHK Apartment for Rent in Fern Aristocrat, Maradu Kochi",70000.0,Furnished,4.0,Bachelors,4000.0,Apartment,4,Maradu,7.0,14.0
+311,"3 BHK Apartment for Rent in RDS Aura, Kadavanthra Kochi",50000.0,Furnished,3.0,Family,2000.0,Apartment,3,Kadavanthra,7.0,18.0
+312,4 BHK House for Rent in Branded House Kochi,30000.0,Furnished,4.0,Bachelors,1800.0,House,4,House,,
+313,"4 BHK Apartment for Rent in Marina One, Marine Drive Kochi",90000.0,Semi-Furnished,5.0,Family,,Apartment,4,Marine Drive,4.0,25.0
+314,2 BHK Apartment for Rent in Padamugal Kochi,26000.0,Furnished,2.0,Bachelors,850.0,Apartment,2,Padamugal,2.0,3.0
+315,"3 BHK Apartment for Rent in DLF New Town Heights, Kakkanad Kochi",23000.0,Semi-Furnished,3.0,Bachelors,1800.0,Apartment,3,Kakkanad,11.0,21.0
+316,"3 BHK Apartment for Rent in Puravankara Purva Eternity, Kakkanad Kochi",35000.0,Furnished,3.0,Bachelors,,Apartment,3,Kakkanad,10.0,20.0
+317,"2 BHK Apartment for Rent in DD Highway Gate, Netoor Kochi",16000.0,Semi-Furnished,2.0,Bachelors,,Apartment,2,Netoor,7.0,14.0
+318,"2 BHK Flat for Rent in Hacienda, Aluva, Kochi",27000.0,Furnished,2.0,Bachelors/Family,,Flat,2,Aluva,2.0,15.0
+319,"3 BHK Flat for Rent in Mather Serenade , Vazhakkala, Kochi",60000.0,Furnished,4.0,Bachelors/Family,2500.0,Flat,3,Vazhakkala,1.0,10.0
+320,"3 BHK Flat for Rent in Falcon Heights, Palarivattom, Kochi",21000.0,Semi-Furnished,3.0,Bachelors,1300.0,Flat,3,Palarivattom,3.0,9.0
+321,"3 BHK Flat for Rent in Abad Casablanca , Vazhakkala, Kochi",35000.0,Furnished,3.0,Bachelors/Family,,Flat,3,Vazhakkala,1.0,11.0
+322,3 BHK House for Rent in Thrikkakara Kochi,30000.0,Semi-Furnished,3.0,Bachelors,1400.0,House,3,Thrikkakara,0.0,1.0
+323,"3 BHK Flat for Rent in Tricore 22, Aluva, Kochi",20000.0,Furnished,3.0,Bachelors/Family,1800.0,Flat,3,Aluva,3.0,22.0
+324,2 BHK House for Rent in Aluva Kochi,12000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Aluva,0.0,1.0
+325,2 BHK House for Rent in Vazhakkala Kochi,14500.0,Semi-Furnished,1.0,Bachelors/Family,,House,2,Vazhakkala,,
+326,"1 BHK Flat for Rent in Aquacity, Aluva, Kochi",14500.0,Furnished,1.0,Bachelors,500.0,Flat,1,Aluva,19.0,22.0
+329,3 BHK House for Rent in Palarivattom Kochi,,Furnished,3.0,Bachelors/Family,,House,3,Palarivattom,,
+330,4 BHK House for Rent in Palarivattom Kochi,38000.0,Furnished,4.0,Bachelors/Family,2500.0,House,4,Palarivattom,,
+331,"2 BHK Flat for Rent in Tricore 22, Aluva, Kochi",16500.0,Furnished,2.0,Bachelors/Family,700.0,Flat,2,Aluva,3.0,5.0
+332,4 BHK House for Rent in Palarivattom Kochi,30000.0,Semi-Furnished,1.0,Bachelors/Family,,House,4,Palarivattom,,
+333,"3 BHK Flat for Rent in SFS Grandville , Thrikkakara, Kochi",40000.0,Semi-Furnished,4.0,Bachelors/Family,1730.0,Flat,3,Thrikkakara,6.0,13.0
+334,"1 BHK Flat for Rent in Alpine Suites, Aluva, Kochi",10000.0,Furnished,1.0,Bachelors,,Flat,1,Aluva,,
+335,"3 BHK Flat for Rent in Aluva, Kochi",15000.0,Semi-Furnished,4.0,Bachelors/Family,1600.0,Flat,3,,7.0,14.0
+336,4 BHK House for Rent in Palarivattom Kochi,45000.0,Semi-Furnished,4.0,Bachelors/Family,2500.0,House,4,Palarivattom,,
+337,"1 BHK Flat for Rent in Vazhakkala, Kochi",15000.0,Furnished,1.0,Bachelors/Family,,Flat,1,,1.0,6.0
+338,"2 BHK Flat for Rent in Vazhakkala, Kochi",20000.0,Furnished,2.0,Bachelors/Family,,Flat,2,,4.0,4.0
+339,"3 BHK Flat for Rent in Palarivattom, Kochi",25000.0,Unfurnished,3.0,Bachelors,,Flat,3,,6.0,10.0
+341,3 BHK House for Rent in Palarivattom Kochi,3000.0,Furnished,3.0,Bachelors/Family,,House,3,Palarivattom,1.0,1.0
+342,"2 BHK Flat for Rent in Thrikkakara, Kochi",25000.0,Semi-Furnished,2.0,Bachelors/Family,,Flat,2,,12.0,18.0
+344,2 BHK House for Rent in Palarivattom Kochi,11000.0,Unfurnished,1.0,Bachelors/Family,,House,2,Palarivattom,0.0,1.0
+345,"2 BHK Flat for Rent in Olive Heights, Kadavanthra, Kochi",35000.0,Unfurnished,2.0,Bachelors,1254.0,Flat,2,Kadavanthra,8.0,18.0
+346,"2 BHK Flat for Rent in Olive Heights, Kadavanthra, Kochi",31000.0,Unfurnished,2.0,Bachelors/Family,1254.0,Flat,2,Kadavanthra,8.0,18.0
+347,"4 BHK Flat for Rent in Ansal City, Thrippunithura, Kochi",48000.0,Furnished,4.0,Bachelors/Family,,Flat,4,Thrippunithura,7.0,11.0
+348,"3 BHK Flat for Rent in ABAD Daffodil Gardens, Thrippunithura, Kochi",35000.0,Semi-Furnished,3.0,Bachelors/Family,1540.0,Flat,3,Thrippunithura,4.0,10.0
+349,3 BHK Service Apartment for Rent in Kaloor Kochi,30000.0,,3.0,Bachelors/Family,,Service Apartment,3,Kaloor,3.0,7.0
+350,"3 BHK Flat for Rent in Kadavanthra, Kochi",20000.0,Semi-Furnished,3.0,Family,,Flat,3,,2.0,13.0
+351,"2 BHK Flat for Rent in Kaloor, Kochi",14000.0,Unfurnished,2.0,Family,750.0,Flat,2,,0.0,2.0
+352,"2 BHK Flat for Rent in Kaloor, Ernakulam",30000.0,Semi-Furnished,2.0,Bachelors/Family,,Flat,2,,3.0,12.0
+353,"3 BHK Flat for Rent in Galaxy Luxor, Kadavanthra, Kochi",20000.0,Furnished,2.0,Bachelors,1000.0,Flat,3,Kadavanthra,4.0,4.0
+355,3 BHK House for Rent in Vadakekotta Kochi,15000.0,Unfurnished,2.0,Bachelors/Family,,House,3,Vadakekotta,,
+356,"3 BHK Flat for Rent in RDS Aura, Kadavanthra, Kochi",50000.0,Furnished,4.0,Bachelors/Family,1750.0,Flat,3,Kadavanthra,5.0,12.0
+357,1 BHK House for Rent in Kadavanthra Kochi,5000.0,Semi-Furnished,1.0,Bachelors/Family,,House,1,Kadavanthra,,
+358,"4 BHK Villa for Rent in Vineyard Meadows , Thrippunithura Kochi",45000.0,Furnished,5.0,Bachelors/Family,,Villa,4,Thrippunithura,,
+359,2 BHK House for Rent in Kaloor Kochi,25000.0,Furnished,2.0,Bachelors/Family,,House,2,Kaloor,0.0,2.0
+360,2 BHK House for Rent in Kadavanthra Kochi,20000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Kadavanthra,,
+361,"2 BHK Flat for Rent in KB Apartments, Kadavanthra, Kochi",15000.0,Semi-Furnished,2.0,Family,700.0,Apartment,2,Kadavanthra,5.0,5.0
+362,4 BHK Villa for Rent in Thrippunithura Kochi,40000.0,Semi-Furnished,6.0,Bachelors/Family,,Villa,4,Thrippunithura,,
+363,"1 BHK Flat for Rent in Kaloor, Kochi",3500.0,Furnished,1.0,Bachelors/Family,,Flat,1,,1.0,3.0
+364,"3 BHK Flat for Rent in Kaloor, Kochi",17000.0,Semi-Furnished,2.0,Bachelors/Family,,Flat,3,,1.0,4.0
+365,3 BHK House for Rent in Kaloor Kochi,45000.0,Unfurnished,4.0,Bachelors/Family,2100.0,House,3,Kaloor,0.0,2.0
+367,"2 BHK Flat for Rent in Kadavanthra, Kochi",30000.0,Semi-Furnished,2.0,Bachelors/Family,1200.0,Flat,2,,2.0,14.0
+368,"3 BHK Flat for Rent in Kadavanthra, Kochi",18000.0,Semi-Furnished,3.0,Bachelors/Family,,Flat,3,,5.0,19.0
+369,"4 BHK Villa for Rent in Vineyard Meadows , Thrippunithura Kochi",35000.0,Semi-Furnished,4.0,Bachelors/Family,,Villa,4,Thrippunithura,,
+370,"3 BHK Flat for Rent in Heera Life Style, Thrippunithura, Kochi",25000.0,Semi-Furnished,4.0,Bachelors/Family,,Flat,3,Thrippunithura,19.0,21.0
+372,"3 BHK Flat for Rent in Tiknar Petals, Kadavanthra, Kochi",30000.0,Semi-Furnished,3.0,Bachelors/Family,,Flat,3,Kadavanthra,3.0,15.0
+373,"3 BHK Flat for Rent in Dream Flower Velvetude, Edappally, Kochi",38000.0,Furnished,3.0,Bachelors,1202.0,Flat,3,Edappally,1.0,6.0
+374,"2 BHK Flat for Rent in Sowparnika Atrium, Edappally, Kochi",32000.0,Furnished,2.0,Bachelors/Family,,Flat,2,Edappally,7.0,9.0
+375,3 BHK House for Rent in Kakkanad Kochi,45000.0,Furnished,4.0,Bachelors,1550.0,House,3,Kakkanad,2.0,2.0
+376,"3 BHK Flat for Rent in DLF Riverside, Vyttila, Kochi",64000.0,Furnished,3.0,Bachelors,,Flat,3,Vyttila,9.0,12.0
+377,"3 BHK Villa for Rent in Green Casa, Kakkanad Kochi",30000.0,Furnished,3.0,Bachelors/Family,,Villa,3,Kakkanad,,
+378,3 BHK House for Rent in Edappally Kochi,20000.0,Furnished,3.0,Bachelors/Family,,House,3,Edappally,,
+379,"2 BHK Flat for Rent in Kakkanad, Kochi",32000.0,Furnished,2.0,Bachelors,,Flat,2,,5.0,13.0
+380,"3 BHK Flat for Rent in Asten Campus Court, Kakkanad, Kochi",48000.0,Furnished,3.0,Bachelors/Family,,Flat,3,Kakkanad,5.0,23.0
+382,3 BHK Villa for Rent in Kakkanad Kochi,40000.0,Furnished,3.0,Bachelors/Family,,Villa,3,Kakkanad,,
+383,2 BHK House for Rent in Vyttila Kochi,14000.0,Semi-Furnished,2.0,Bachelors/Family,650.0,House,2,Vyttila,,
+384,"3 BHK Flat for Rent in Jewel Bay View, Vyttila, Kochi",25000.0,Semi-Furnished,3.0,Bachelors/Family,,Flat,3,Vyttila,4.0,10.0
+385,"2 BHK Flat for Rent in Sowparnika Atrium, Edappally, Kochi",36000.0,Semi-Furnished,2.0,Bachelors/Family,,Flat,2,Edappally,1.0,9.0
+386,"1 BHK Flat for Rent in Prestige Hillside Gateway, Kakkanad, Kochi",32000.0,Furnished,1.0,Bachelors,650.0,Flat,1,Kakkanad,1.0,26.0
+387,2 BHK House for Rent in Kakkanad Kochi,25000.0,Furnished,2.0,Bachelors/Family,1000.0,House,2,Kakkanad,,
+388,3 BHK Villa for Rent in Kakkanad Ernakulam,22000.0,Semi-Furnished,3.0,Bachelors/Family,1900.0,Villa,3,,,
+389,"3 BHK Flat for Rent in Mystic Heights Phase I, Vyttila, Kochi",22000.0,Furnished,3.0,Family,1480.0,Flat,3,Vyttila,1.0,18.0
+390,"1 BHK Flat for Rent in Kakkanad, Kochi",15000.0,Semi-Furnished,1.0,Bachelors/Family,750.0,Flat,1,,1.0,4.0
+391,"3 BHK Flat for Rent in Kakkanad, Kochi",38000.0,Furnished,3.0,Bachelors/Family,,Flat,3,,16.0,20.0
+392,4 BHK House for Rent in Edappally Kochi,80000.0,Semi-Furnished,4.0,Bachelors/Family,,House,4,Edappally,,
+393,"2 BHK Flat for Rent in DD Diamond Valley, Kakkanad, Kochi",24000.0,Semi-Furnished,2.0,Bachelors,970.0,Flat,2,Kakkanad,10.0,17.0
+394,"2 BHK Flat for Rent in Kakkanad, Kochi",15000.0,Furnished,1.0,Bachelors/Family,700.0,Flat,2,,0.0,2.0
+397,"3 BHK Flat for Rent in Edappally, Kochi",16500.0,Unfurnished,3.0,Bachelors/Family,1150.0,Flat,3,,2.0,2.0
+398,"1 BHK Flat for Rent in Edappally, Kochi",18000.0,Unfurnished,1.0,Bachelors,600.0,Flat,1,,1.0,3.0
+399,"2 BHK Flat for Rent in Edappally, Kochi",18000.0,Furnished,2.0,Bachelors/Family,,Flat,2,,1.0,3.0
+400,"3 BHK Flat for Rent in Confident Cygnus III, Kakkanad, Kochi",13000.0,Semi-Furnished,2.0,Family,972.0,Flat,3,Kakkanad,2.0,8.0
+401,3 BHK Builder Floor for Rent in Vyttila Kochi,22000.0,Unfurnished,2.0,Bachelors/Family,,Builder Floor,3,Vyttila,2.0,4.0
+402,"2 BHK Apartment for Rent in Kent Mahal, Kakkanad Kochi",27000.0,Furnished,2.0,Bachelors,1055.0,Apartment,2,Kakkanad,19.0,19.0
+405,3 BHK Apartment for Rent in Kakkanad Kochi,19000.0,Furnished,4.0,Bachelors,,Apartment,3,Kakkanad,9.0,20.0
+406,"3 BHK Apartment for Rent in Bhagheeratha VC Valley, Kakkanad Kochi",25000.0,Semi-Furnished,3.0,Bachelors/Family,1670.0,Apartment,3,Kakkanad,6.0,11.0
+409,"2 BHK Apartment for Rent in Nucleus Rhyme, Edappally Kochi",38000.0,Unfurnished,2.0,Bachelors,987.0,Apartment,2,Edappally,5.0,8.0
+410,2 BHK House for Rent in Kakkanad Kochi,11000.0,Semi-Furnished,1.0,Bachelors/Family,,House,2,Kakkanad,1.0,1.0
+411,"3 BHK Apartment for Rent in Happy Homes Bhishma, Kakkanad Kochi",23000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,5.0,7.0
+412,2 BHK Apartment for Rent in Edappally Kochi,20000.0,Furnished,2.0,Bachelors/Family,850.0,Apartment,2,Edappally,0.0,2.0
+413,"3 BHK Apartment for Rent in GRTL Gardenia, Edappally Kochi",20000.0,Unfurnished,3.0,Bachelors/Family,1570.0,Apartment,3,Edappally,1.0,1.0
+414,"2 BHK Apartment for Rent in DLF New Town Heights, Kakkanad Kochi",18000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Kakkanad,8.0,22.0
+415,"3 BHK Apartment for Rent in Motif Green Meadows, Kakkanad Kochi",20000.0,Semi-Furnished,3.0,Bachelors/Family,1691.0,Apartment,3,Kakkanad,0.0,12.0
+416,4 BHK House for Rent in Edappally Kochi,45000.0,Furnished,5.0,Bachelors,,House,4,Edappally,0.0,1.0
+417,"2 BHK Apartment for Rent in DLF New Town Heights, Kakkanad Kochi",35000.0,Furnished,3.0,Bachelors/Family,1200.0,Apartment,2,Kakkanad,4.0,7.0
+418,"3 BHK Apartment for Rent in Green Vistas Prakrriti, Kakkanad Kochi",30000.0,Semi-Furnished,3.0,Family,1600.0,Apartment,3,Kakkanad,2.0,14.0
+419,3 BHK House for Rent in Vyttila Kochi,22500.0,Semi-Furnished,2.0,Bachelors,1200.0,House,3,Vyttila,,
+420,"1 BHK Apartment for Rent in Platinum Crown Unichira, Edappally Kochi",16000.0,Furnished,1.0,Bachelors/Family,750.0,Apartment,1,Edappally,4.0,5.0
+421,3 BHK Apartment for Rent in Vyttila Kochi,20000.0,Unfurnished,3.0,Bachelors/Family,1500.0,Apartment,3,Vyttila,12.0,18.0
+422,1 BHK Apartment for Rent in Edappally Kochi,13000.0,Semi-Furnished,1.0,Bachelors,,Apartment,1,Edappally,2.0,2.0
+423,"3 BHK Apartment for Rent in Noel Greenature, Kakkanad Kochi",55000.0,Furnished,4.0,Bachelors,,Apartment,3,Kakkanad,7.0,10.0
+425,2 BHK Builder Floor for Rent in Kakkanad Kochi,16500.0,Semi-Furnished,2.0,Bachelors,,Builder Floor,2,Kakkanad,1.0,3.0
+428,"3 BHK Apartment for Rent in DD Diamond Valley, Kakkanad Kochi",28000.0,Semi-Furnished,3.0,Bachelors,,Apartment,3,Kakkanad,1.0,17.0
+429,"3 BHK Apartment for Rent in Infra Aspire, Kakkanad Kochi",28000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,3.0,12.0
+430,"3 BHK Apartment for Rent in Hoysala D'zire Apartments, Kakkanad Kochi",27000.0,Furnished,3.0,Bachelors,1200.0,Apartment,3,Kakkanad,1.0,11.0
+432,"1 BHK Apartment for Rent in Link valley, Kakkanad Kochi",17000.0,Furnished,1.0,Bachelors/Family,,Apartment,1,Kakkanad,1.0,3.0
+433,3 BHK House for Rent in Edappally Kochi,24000.0,Semi-Furnished,3.0,Bachelors,1450.0,House,3,Edappally,1.0,2.0
+434,"2 BHK Apartment for Rent in SFS Silicon Court and Gate , Kakkanad Kochi",20000.0,Semi-Furnished,2.0,Bachelors,1200.0,Apartment,2,Kakkanad,7.0,15.0
+435,"3 BHK Apartment for Rent in Motif Green Meadows, Kakkanad Kochi",20000.0,Semi-Furnished,3.0,Bachelors/Family,1691.0,Apartment,3,Kakkanad,,
+436,"3 BHK Apartment for Rent in Sowparnika Atrium, Edappally Kochi",35000.0,Furnished,2.0,Bachelors/Family,,Apartment,3,Edappally,2.0,9.0
+437,"3 BHK Apartment for Rent in Noel Greenature, Kakkanad Kochi",59000.0,Furnished,2.0,Bachelors/Family,2040.0,Apartment,3,Kakkanad,7.0,14.0
+438,3 BHK Apartment for Rent in Kakkanad Kochi,42000.0,Furnished,3.0,Bachelors/Family,1400.0,Apartment,3,Kakkanad,7.0,12.0
+439,"3 BHK Apartment for Rent in Jewel Bay View, Vyttila Kochi",25000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Vyttila,4.0,10.0
+440,"3 BHK Apartment for Rent in Puravankra Eternity, Kakkanad Kochi",35000.0,,,Bachelors/Family,,Apartment,3,Kakkanad,,
+442,3 BHK Apartment for Rent in Kakkanad Kochi,22000.0,Furnished,3.0,Bachelors,,Apartment,3,Kakkanad,5.0,7.0
+443,"2 BHK Apartment for Rent in DLF New Town Heights, Kakkanad Kochi",36000.0,Furnished,2.0,Bachelors/Family,,Apartment,2,Kakkanad,4.0,7.0
+444,2 BHK House for Rent in Kakkanad Kochi,15000.0,Furnished,2.0,Bachelors/Family,,House,2,Kakkanad,,
+446,3 BHK Apartment for Rent in Edappally Kochi,20000.0,Furnished,2.0,Bachelors/Family,,Apartment,3,Edappally,10.0,12.0
+447,"2 BHK Apartment for Rent in Flairalliance Atrium, Kakkanad Kochi",15000.0,Furnished,2.0,Bachelors/Family,750.0,Apartment,2,Kakkanad,12.0,14.0
+448,3 BHK Builder Floor for Rent in Edappally Kochi,20000.0,Unfurnished,3.0,Bachelors/Family,,Builder Floor,3,Edappally,1.0,5.0
+449,2 BHK Apartment for Rent in Kakkanad Kochi,20000.0,Furnished,2.0,Bachelors/Family,,Apartment,2,Kakkanad,3.0,15.0
+450,2 BHK House for Rent in Kakkanad Kochi,30000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Kakkanad,,
+454,3 BHK Apartment for Rent in Kakkanad Kochi,45000.0,Semi-Furnished,3.0,Bachelors,1200.0,Apartment,3,Kakkanad,5.0,15.0
+456,1 BHK House for Rent in Kakkanad Kochi,18000.0,Unfurnished,1.0,Bachelors/Family,,House,1,Kakkanad,,
+457,3 BHK Apartment for Rent in Kakkanad Kochi,40000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,7.0,19.0
+458,3 BHK House for Rent in Kakkanad Kochi,20000.0,Semi-Furnished,2.0,Bachelors/Family,,House,3,Kakkanad,1.0,2.0
+459,3 BHK House for Rent in Kakkanad Kochi,30000.0,Furnished,4.0,Bachelors/Family,1800.0,House,3,Kakkanad,,
+460,2 BHK Apartment for Rent in Thrikkakara Kochi,25000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Thrikkakara,12.0,18.0
+461,"3 BHK Apartment for Rent in Tranquil Towers , Kakkanad Kochi",30000.0,Furnished,4.0,Bachelors/Family,,Apartment,3,Kakkanad,5.0,10.0
+462,3 BHK House for Rent in Edappally Kochi,12000.0,Unfurnished,3.0,Bachelors/Family,,House,3,Edappally,,
+463,1 BHK Apartment for Rent in Vyttila Kochi,,Furnished,1.0,Bachelors/Family,,Apartment,1,Vyttila,5.0,10.0
+464,"2 BHK Flat for Rent in Kollamkudimugal, Kochi",15000.0,Semi-Furnished,2.0,Bachelors/Family,,Flat,2,,2.0,6.0
+466,"1 BHK Flat for Rent in Infopark Campus, Kochi",15500.0,Furnished,1.0,Bachelors/Family,550.0,Flat,1,,2.0,4.0
+467,3 BHK House for Rent in Kalamasery Kochi,22500.0,Furnished,2.0,Bachelors/Family,1000.0,House,3,Kalamasery,1.0,2.0
+468,2 BHK Flat for Rent in Kochi,28000.0,Unfurnished,2.0,Bachelors/Family,900.0,Flat,2,in,1.0,3.0
+469,"3 BHK Flat for Rent in TATA Tritvam , Marine Drive, Kochi",80000.0,Furnished,4.0,Bachelors/Family,2000.0,Flat,3,Marine Drive,24.0,25.0
+470,3 BHK Flat for Rent in Kochi,55000.0,Furnished,4.0,Bachelors,2250.0,Flat,3,in,11.0,19.0
+471,"3 BHK Flat for Rent in TATA Tritvam , Marine Drive, Kochi",90000.0,Furnished,4.0,Bachelors/Family,1900.0,Flat,3,Marine Drive,10.0,26.0
+472,"3 BHK Flat for Rent in Puravankara Purva Grandbay, Marine Drive, Kochi",55000.0,Furnished,3.0,Family,1900.0,Flat,3,Marine Drive,6.0,15.0
+473,2 BHK House for Rent in 2 BHK 2Bath at koonanamavu near to NH66 Highway Kochi,14000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Highway,1.0,1.0
+474,2 BHK Flat for Rent in Kochi,15000.0,Semi-Furnished,2.0,Bachelors/Family,1050.0,Flat,2,in,2.0,2.0
+475,2 BHK Flat for Rent in Kochi,20000.0,Semi-Furnished,2.0,Bachelors/Family,1306.0,Flat,2,in,2.0,2.0
+476,"3 BHK Flat for Rent in Skyline Zircon , Panampily Nagar, Kochi",38000.0,Furnished,3.0,Bachelors/Family,1500.0,Flat,3,Panampily Nagar,4.0,12.0
+477,2 BHK House for Rent in Infopark Campus Kochi,22000.0,Furnished,2.0,Bachelors/Family,,House,2,Campus,1.0,1.0
+478,2 BHK Flat for Rent in Kochi,21000.0,Semi-Furnished,2.0,Bachelors/Family,750.0,Flat,2,in,0.0,2.0
+480,"3 BHK Flat for Rent in Ambalamedu, Kochi",20000.0,Semi-Furnished,3.0,Bachelors,1000.0,Flat,3,,0.0,3.0
+481,"3 BHK Flat for Rent in TATA Tritvam , Marine Drive, Kochi",90000.0,Semi-Furnished,4.0,Bachelors/Family,2000.0,Flat,3,Marine Drive,14.0,25.0
+482,"3 BHK Flat for Rent in Happy Homes Siva Apartments, Thudiyur, Kochi",22000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Thudiyur,4.0,8.0
+483,"3 BHK Flat for Rent in Marine Drive, Kochi",68000.0,Furnished,2.0,Bachelors/Family,,Flat,3,,2.0,15.0
+484,"3 BHK Apartment for Rent in Asten Campus Court, Kakkanad Kochi",48000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,5.0,23.0
+485,"3 BHK Apartment for Rent in Abad Casablanca , Vazhakkala Kochi",35000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Vazhakkala,1.0,11.0
+486,3 BHK Apartment for Rent in Tiknar olina Kochi,30000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,olina,3.0,15.0
+487,3 BHK Apartment for Rent in Kalamasery Kochi,40000.0,Furnished,4.0,Bachelors/Family,,Apartment,3,Kalamasery,0.0,3.0
+488,3 BHK Apartment for Rent in chittor road Kochi,29000.0,Furnished,4.0,Bachelors/Family,,Apartment,3,road,7.0,11.0
+489,2 BHK House for Rent in Puthencruz Kochi,12508.0,,,Bachelors/Family,,House,2,Puthencruz,,
+490,2 BHK House for Rent in Koonammavu Kochi,11000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Koonammavu,1.0,1.0
+491,2 BHK Apartment for Rent in Kolenchery Kochi,14000.0,Furnished,1.0,Bachelors,800.0,Apartment,2,Kolenchery,0.0,2.0
+492,5 BHK House for Rent in Padamugal Kochi,35000.0,Semi-Furnished,5.0,Bachelors,1800.0,House,5,Padamugal,1.0,2.0
+494,3 BHK Apartment for Rent in Skyline Petta Maradu Kochi,22000.0,Furnished,2.0,Bachelors,1250.0,Apartment,3,Maradu,11.0,17.0
+495,3 BHK House for Rent in Vypin Kochi,15000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Vypin,0.0,1.0
+496,"1 BHK Apartment for Rent in South Indian Bank, Elamakkara Kochi",13000.0,,,Bachelors/Family,,Apartment,1,Elamakkara,,
+497,3 BHK Villa for Rent in Kaipattoor Kochi,9000.0,Unfurnished,2.0,Family,,Villa,3,Kaipattoor,,
+498,"2 BHK Apartment for Rent in Coral Auriga, Coral Auriga, Maradu, Kochi,Coral Auriga, Maradu, Kochi Kochi",15000.0,Unfurnished,2.0,Bachelors/Family,,Apartment,2,Kochi,2.0,3.0
+499,"3 BHK Apartment for Rent in Riviera Retreat, Thevara Kochi",45000.0,Furnished,3.0,Bachelors,,Apartment,3,Thevara,10.0,13.0
+500,2 BHK Builder Floor for Rent in Vennala Kochi,10000.0,Semi-Furnished,1.0,Bachelors/Family,,Builder Floor,2,Vennala,1.0,2.0
+501,3 BHK Apartment for Rent in Kadavanthra Kochi,20000.0,Semi-Furnished,3.0,Family,,Apartment,3,Kadavanthra,2.0,13.0
+502,2 BHK Apartment for Rent in Kaloor Kochi,14000.0,Unfurnished,2.0,Family,750.0,Apartment,2,Kaloor,0.0,2.0
+503,"4 BHK Apartment for Rent in Prestige Neptunes Courtyard, Marine Drive Kochi",70000.0,Furnished,5.0,Bachelors/Family,,Apartment,4,Marine Drive,15.0,16.0
+505,4 BHK House for Rent in Koonammavu Kochi,18500.0,Unfurnished,4.0,Bachelors/Family,1400.0,House,4,Koonammavu,1.0,2.0
+506,2 BHK House for Rent in Nettoor Kochi,20000.0,Furnished,2.0,Bachelors/Family,,House,2,Nettoor,1.0,1.0
+507,2 BHK House for Rent in Kacherippady Kochi,16000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,Kacherippady,1.0,3.0
+508,3 BHK House for Rent in Cheppanam Kochi,150000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Cheppanam,1.0,2.0
+509,1 BHK Builder Floor for Rent in Kaloor Kochi,3500.0,Furnished,1.0,Bachelors/Family,,Builder Floor,1,Kaloor,1.0,3.0
+510,1 BHK Builder Floor for Rent in Fort Kochi Kochi,9900.0,Semi-Furnished,1.0,Bachelors/Family,,Builder Floor,1,Fort Kochi,,
+511,2 BHK Apartment for Rent in Pachalam Kochi,32000.0,Furnished,2.0,Bachelors/Family,850.0,Apartment,2,Pachalam,2.0,2.0
+512,3 BHK Villa for Rent in Angamali Kochi,15000.0,Semi-Furnished,2.0,Bachelors/Family,,Villa,3,Angamali,,
+513,4 BHK Apartment for Rent in Anjaneya Apartment Kochi,30000.0,Furnished,4.0,Bachelors/Family,1900.0,Apartment,4,Apartment,5.0,5.0
+514,"2 BHK Apartment for Rent in Sowparnika Atrium, Edappally Kochi",36000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,Edappally,1.0,9.0
+516,2 BHK House for Rent in ARA 88 Kochi,21000.0,Semi-Furnished,2.0,Bachelors/Family,1400.0,House,2,88,,
+517,4 BHK House for Rent in Tripunithura Kochi,25000.0,Semi-Furnished,4.0,Bachelors/Family,,House,4,Tripunithura,,
+518,3 BHK Apartment for Rent in Asset Homes Silicon Heights Kochi,40000.0,Furnished,4.0,Bachelors/Family,1700.0,Apartment,3,Heights,2.0,15.0
+519,3 BHK House for Rent in Varapuzha Kochi,16000.0,Unfurnished,2.0,Family,,House,3,Varapuzha,,
+520,"3 BHK Apartment for Rent in Mystic Heights Phase I, Vyttila Kochi",22000.0,Furnished,3.0,Family,1480.0,Apartment,3,Vyttila,1.0,18.0
+523,3 BHK Apartment for Rent in Kakkanad Kochi,38000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Kakkanad,16.0,20.0
+524,1 BHK Apartment for Rent in Mather Esperansa Kochi,30000.0,Furnished,1.0,Bachelors,720.0,Apartment,1,Esperansa,12.0,12.0
+525,"3 BHK Apartment for Rent in Puravankara Purva Grandbay, Marine Drive Kochi",45000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Marine Drive,10.0,14.0
+526,3 BHK Apartment for Rent in Ravipuram Kochi,50000.0,Furnished,3.0,Bachelors/Family,2200.0,Apartment,3,Ravipuram,6.0,13.0
+528,"2 BHK Apartment for Rent in DD Diamond Valley, Kakkanad Kochi",24000.0,Semi-Furnished,2.0,Bachelors,970.0,Apartment,2,Kakkanad,10.0,17.0
+529,1 BHK House for Rent in Vaduthala Kochi,4500.0,Furnished,1.0,Bachelors/Family,,House,1,Vaduthala,,
+530,3 BHK House for Rent in udayamperoor Kochi,15000.0,Unfurnished,3.0,Bachelors/Family,1116.0,House,3,udayamperoor,,
+531,2 BHK Apartment for Rent in Pachalam Kochi,11000.0,Unfurnished,2.0,Bachelors/Family,850.0,Apartment,2,Pachalam,2.0,2.0
+532,1 BHK Apartment for Rent in Thevara Kochi,15000.0,Furnished,1.0,Bachelors,400.0,Apartment,1,Thevara,0.0,3.0
+533,3 BHK Villa for Rent in Aikaranad South Kochi,16000.0,Unfurnished,3.0,Bachelors/Family,1800.0,Villa,3,South,,
+535,2 BHK Apartment for Rent in Kakkanad Kochi,15000.0,Furnished,1.0,Bachelors/Family,700.0,Apartment,2,Kakkanad,0.0,2.0
+536,2 BHK Apartment for Rent in Tripunithura Kochi,20000.0,Semi-Furnished,2.0,Bachelors/Family,1100.0,Apartment,2,Tripunithura,3.0,14.0
+537,"3 BHK Apartment for Rent in Galaxy Luxor, Kadavanthra Kochi",20000.0,Furnished,2.0,Bachelors,1000.0,Apartment,3,Kadavanthra,4.0,4.0
+539,5 BHK House for Rent in Kandanad Kochi,30000.0,Semi-Furnished,5.0,Bachelors/Family,,House,5,Kandanad,1.0,2.0
+540,3 BHK Apartment for Rent in Aluva Kochi,15000.0,Semi-Furnished,4.0,Bachelors/Family,1600.0,Apartment,3,Aluva,7.0,14.0
+541,"2 BHK Apartment for Rent in Jawahar Nagar, Kadavanthra Kochi",30000.0,Furnished,3.0,Bachelors/Family,950.0,Apartment,2,Kadavanthra,2.0,2.0
+542,3 BHK Builder Floor for Rent in Edappally Kochi,16500.0,Unfurnished,3.0,Bachelors/Family,1150.0,Builder Floor,3,Edappally,2.0,2.0
+543,3 BHK Apartment for Rent in shenoys Kochi,32000.0,Furnished,2.0,Bachelors/Family,1400.0,Apartment,3,shenoys,9.0,12.0
+546,2 BHK House for Rent in Maradu Kochi,11000.0,Unfurnished,1.0,Bachelors/Family,,House,2,Maradu,,
+547,1 BHK House for Rent in Nedumbassery Kochi,8000.0,Semi-Furnished,1.0,Bachelors/Family,,House,1,Nedumbassery,,
+548,2 BHK Apartment for Rent in Thevara Kochi,16000.0,Semi-Furnished,2.0,Bachelors/Family,840.0,Apartment,2,Thevara,8.0,13.0
+549,3 BHK Villa for Rent in Thuthiyoor Kochi,42000.0,Furnished,3.0,Bachelors/Family,,Villa,3,Thuthiyoor,,
+550,1 BHK Builder Floor for Rent in Vazhakkala Kochi,15000.0,Furnished,1.0,Bachelors/Family,,Builder Floor,1,Vazhakkala,1.0,6.0
+552,1 BHK Apartment for Rent in Edappally Kochi,18000.0,Unfurnished,1.0,Bachelors,600.0,Apartment,1,Edappally,1.0,3.0
+554,2 BHK Apartment for Rent in Karikkamuri Kochi,19000.0,Unfurnished,2.0,Bachelors/Family,850.0,Apartment,2,Karikkamuri,0.0,3.0
+556,"3 BHK Apartment for Rent in Confident Cygnus III, Kakkanad Kochi",13000.0,Semi-Furnished,2.0,Family,972.0,Apartment,3,Kakkanad,2.0,8.0
+557,2 BHK Builder Floor for Rent in Vazhakkala Kochi,20000.0,Furnished,2.0,Bachelors/Family,,Builder Floor,2,Vazhakkala,4.0,4.0
+558,"3 BHK Apartment for Rent in RDS Aura, Kadavanthra Kochi",50000.0,Furnished,4.0,Bachelors/Family,1750.0,Apartment,3,Kadavanthra,5.0,12.0
+559,3 BHK Builder Floor for Rent in Kadungalloor Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,,Builder Floor,3,Kadungalloor,0.0,2.0
+560,2 BHK Apartment for Rent in Nanma one cochin Kochi,25000.0,Semi-Furnished,2.0,Bachelors/Family,900.0,Apartment,2,cochin,6.0,26.0
+561,2 BHK House for Rent in Priyadarshini colony Kochi,18000.0,Semi-Furnished,2.0,Bachelors/Family,,House,2,colony,1.0,1.0
+563,"3 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",72000.0,Furnished,3.0,Bachelors,,Apartment,3,Marine Drive,14.0,26.0
+564,2 BHK Builder Floor for Rent in Midhunam House Kochi,17500.0,,,Bachelors/Family,,Builder Floor,2,House,,
+565,2 BHK Apartment for Rent in Kadavanthra Kochi,30000.0,Semi-Furnished,2.0,Bachelors/Family,1200.0,Apartment,2,Kadavanthra,2.0,14.0
+567,"3 BHK Apartment for Rent in DD Platinum Planet, Kathrikadavu Kochi",38000.0,Furnished,3.0,Bachelors/Family,1850.0,Apartment,3,Kathrikadavu,8.0,18.0
+568,4 BHK Villa for Rent in Vennala Kochi,65000.0,Furnished,5.0,Family,2700.0,Villa,4,Vennala,,
+570,3 BHK House for Rent in Thevara Kochi,20000.0,Unfurnished,3.0,Bachelors/Family,,House,3,Thevara,0.0,2.0
+571,3 BHK Apartment for Rent in Starpark apartment Kochi,25000.0,,,Bachelors/Family,,Apartment,3,apartment,,
+572,"2 BHK Apartment for Rent in Mattancherry, Kochi Kochi",13000.0,Unfurnished,2.0,Bachelors/Family,,Apartment,2,Kochi,1.0,2.0
+573,5 BHK Villa for Rent in judgemukk Kochi,45000.0,Furnished,5.0,Bachelors/Family,2800.0,Villa,5,judgemukk,,
+574,3 BHK Apartment for Rent in Kadavanthra Kochi,18000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Kadavanthra,5.0,19.0
+576,3 BHK Apartment for Rent in Tripunitura Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Tripunitura,2.0,2.0
+577,"2 BHK Apartment for Rent in ATRIA THEVARA, Thevara Kochi",25000.0,Furnished,2.0,Bachelors/Family,1350.0,Apartment,2,Thevara,12.0,14.0
+579,3 BHK House for Rent in Panangad Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Panangad,2.0,2.0
+580,"1 BHK Apartment for Rent in Aquacity, Aluva Kochi",14500.0,Furnished,1.0,Bachelors,500.0,Apartment,1,Aluva,19.0,22.0
+581,2 BHK House for Rent in Thevara Kochi,16000.0,Unfurnished,2.0,Bachelors/Family,,House,2,Thevara,1.0,2.0
+583,1 BHK House for Rent in Eroor Kochi,12000.0,Furnished,1.0,Bachelors/Family,,House,1,Eroor,1.0,2.0
+584,1 BHK House for Rent in Gandhinagar Kochi,8000.0,Furnished,1.0,Bachelors/Family,,House,1,Gandhinagar,1.0,2.0
+585,1 BHK House for Rent in Kacheripadi Kochi,8000.0,Unfurnished,1.0,Bachelors/Family,,House,1,Kacheripadi,,
+588,3 BHK House for Rent in Palluruthy Kochi,16000.0,Semi-Furnished,2.0,Bachelors,1000.0,House,3,Palluruthy,,
+590,"2 BHK Apartment for Rent in DD Diamond Valley, Edachira Kochi",29500.0,Furnished,2.0,Bachelors/Family,968.0,Apartment,2,Edachira,15.0,17.0
+591,1 BHK House for Rent in Kalamassery Kochi,10000.0,Furnished,1.0,Bachelors/Family,,House,1,Kalamassery,,
+592,"3 BHK Apartment for Rent in Puravankara Purva Grandbay, Marine Drive Kochi",43000.0,Unfurnished,3.0,Bachelors,,Apartment,3,Marine Drive,4.0,13.0
+594,2 BHK House for Rent in Eroor Kochi,400000.0,Unfurnished,1.0,Bachelors,,House,2,Eroor,,
+596,1 BHK House for Rent in Eloor Kochi,12000.0,Semi-Furnished,1.0,Bachelors,2.0,House,1,Eloor,0.0,1.0
+597,"3 BHK Apartment for Rent in Riviera Retreat, Thevara Kochi",35000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Thevara,10.0,15.0
+598,"2 BHK Apartment for Rent in KB Apartments, Kadavanthra Kochi",15000.0,Semi-Furnished,2.0,Family,700.0,Apartment,2,Kadavanthra,5.0,5.0
+599,2 BHK Apartment for Rent in Menaka-MARINE DRIVE Kochi,20000.0,Semi-Furnished,2.0,Bachelors/Family,,Apartment,2,DRIVE,3.0,11.0
+600,3 BHK House for Rent in Poonithura Kochi,19000.0,Unfurnished,3.0,Bachelors,1300.0,House,3,Poonithura,0.0,2.0
+601,2 BHK Apartment for Rent in Shanti Nagar Kochi,13000.0,Unfurnished,2.0,Bachelors/Family,650.0,Apartment,2,Panampily Nagar,2.0,2.0
+602,2 BHK House for Rent in Elamakkara Kochi,15000.0,Semi-Furnished,2.0,Family,,House,2,Elamakkara,,
+603,3 BHK House for Rent in Near Federal Park Vennala Thurithiyil Unnikrisnan Road Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,,House,3,Road,,
+604,2 BHK Villa for Rent in Kalamasery Kochi,9500.0,Unfurnished,2.0,Family,,Villa,2,Kalamasery,,
+605,2 BHK Builder Floor for Rent in Palluruthy Kochi,9000.0,Semi-Furnished,2.0,Bachelors/Family,,Builder Floor,2,Palluruthy,0.0,3.0
+607,"3 BHK Apartment for Rent in in Kakkanad, Kochi Kochi",13000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Kochi,1.0,8.0
+609,"1 BHK House for Rent in Palarivattom, near Medical Center Hospital Kochi",10000.0,Furnished,1.0,Bachelors/Family,,House,1,Hospital,,
+611,1 BHK House for Rent in Nedumbassery Kochi,8000.0,Semi-Furnished,1.0,Bachelors/Family,,House,1,Nedumbassery,1.0,3.0
+612,2 BHK House for Rent in Kolenchery Kochi,6000.0,Unfurnished,1.0,Bachelors/Family,,House,2,Kolenchery,1.0,1.0
+613,3 BHK Builder Floor for Rent in Thevara Kochi,20000.0,Semi-Furnished,3.0,Bachelors/Family,,Builder Floor,3,Thevara,0.0,3.0
+614,1 BHK House for Rent in Ayyappankavu Kochi,15000.0,Furnished,1.0,Bachelors/Family,,House,1,Ayyappankavu,1.0,2.0
+615,2 BHK Builder Floor for Rent in Elamakkara Kochi,14000.0,Unfurnished,2.0,Bachelors,1000.0,Builder Floor,2,Elamakkara,1.0,2.0
+617,3 BHK Apartment for Rent in Panampily Nagar Kochi,,Furnished,4.0,Bachelors/Family,2000.0,Apartment,3,Panampily Nagar,11.0,17.0
+618,"2 BHK Apartment for Rent in Olive Heights, Kadavanthra Kochi",31000.0,Unfurnished,2.0,Bachelors/Family,1254.0,Apartment,2,Kadavanthra,8.0,18.0
+619,"3 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",75000.0,Furnished,4.0,Family,1574.0,Apartment,3,Marine Drive,15.0,25.0
+620,1 BHK House for Rent in Infopark Campus Kochi,10000.0,Semi-Furnished,1.0,Bachelors/Family,,House,1,Campus,1.0,3.0
+621,"2 BHK Apartment for Rent in Sowparnika Atrium, Edappally Kochi",32000.0,Furnished,2.0,Bachelors/Family,,Apartment,2,Edappally,7.0,9.0
+622,"3 BHK Apartment for Rent in ABAD Daffodil Gardens, Thrippunithura Kochi",35000.0,Semi-Furnished,3.0,Bachelors/Family,1540.0,Apartment,3,Thrippunithura,4.0,10.0
+623,"3 BHK Apartment for Rent in Tiknar Petals, Kadavanthra Kochi",30000.0,Semi-Furnished,3.0,Bachelors/Family,,Apartment,3,Kadavanthra,3.0,15.0
+624,1 BHK House for Rent in Fort Cochin Kochi,9000.0,Semi-Furnished,1.0,Bachelors/Family,,House,1,Cochin,,
+625,"3 BHK Builder Floor for Rent in Tricore 22, Aluva Kochi",20000.0,Furnished,3.0,Bachelors/Family,1800.0,Builder Floor,3,Aluva,3.0,22.0
+628,2 BHK Builder Floor for Rent in Midhunam House Kochi,17500.0,Semi-Furnished,2.0,Bachelors/Family,,Builder Floor,2,House,2.0,3.0
+629,"4 BHK Apartment for Rent in Ansal City, Thrippunithura Kochi",48000.0,Furnished,4.0,Bachelors/Family,,Apartment,4,Thrippunithura,7.0,11.0
+630,"2 BHK Builder Floor for Rent in Tricore 22, Aluva Kochi",16500.0,Furnished,2.0,Bachelors/Family,700.0,Builder Floor,2,Aluva,3.0,5.0
+631,"3 BHK Apartment for Rent in SFS Grandville , Thrikkakara Kochi",40000.0,Semi-Furnished,4.0,Bachelors/Family,1730.0,Apartment,3,Thrikkakara,6.0,13.0
+632,"1 BHK Apartment for Rent in Alpine Suites, Aluva Kochi",10000.0,Furnished,1.0,Bachelors,,Apartment,1,Aluva,,
+633,"3 BHK Apartment for Rent in TATA Tritvam , Marine Drive Kochi",90000.0,Furnished,4.0,Bachelors/Family,1900.0,Apartment,3,Marine Drive,13.0,25.0
+634,"3 BHK Apartment for Rent in Skyline Zircon , Panampily Nagar Kochi",38000.0,Furnished,3.0,Bachelors/Family,,Apartment,3,Panampily Nagar,4.0,12.0
